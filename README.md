@@ -1,6 +1,5 @@
-# baby_names
+# google_firebase_auth_integrated_demo
 
-A new Flutter application.
 
 ## Getting Started
 
@@ -14,3 +13,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+References:https://github.com/flutter/plugins/tree/master/packages/google_sign_in
