@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
         case 0:
           {
             return BottomNavigationBarItem(
-                icon: Icon(Icons.people), title: Text('谷歌云数据库'));
+                icon: Icon(Icons.cloud), title: Text('谷歌云数据库'));
           }
         case 1:
           {
